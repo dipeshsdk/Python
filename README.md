@@ -12,11 +12,12 @@ This repository is a collection of my Python learning experiences, projects, and
 - Resources: A list of useful resources, tutorials, and references that have helped me along the way.
 
 ### Goals.
-🌱 Build a strong foundation in Python programming.
-💻 Apply my knowledge to solve real-world problems.
-🧠 Continuously learn and adapt to new concepts and techniques.
-📈 Document my progress and share my learnings with others.
+- 🌱 Build a strong foundation in Python programming.
+- 💻 Apply my knowledge to solve real-world problems.
+- 🧠 Continuously learn and adapt to new concepts and techniques.
+- 📈 Document my progress and share my learnings with others.
 
 ### Connect with Me
 
-GitHub: dipeshsdk
+GitHub: [dipeshsdk](https://github.com/dipeshsdk)
+LinkedIn: [Dipesh Sharma](https://www.linkedin.com/in/dipesh-sharma-53a074320/)
