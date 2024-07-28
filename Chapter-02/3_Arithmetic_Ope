@@ -1,0 +1,18 @@
+# Arithmetic Operators
+a = 7
+b = 4
+# c = a + b
+print(a + b)
+
+print(7 + 3)
+
+# in above code we can see variable a & b is Operands "+" sign is Operator.
+
+# more Examples....
+
+h = 10
+n = 7
+d = 6
+print(h * n * d - h - d / n / h)
+
+# You can See Most of Arithmetic Operator in above Program
