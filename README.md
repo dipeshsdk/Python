@@ -19,5 +19,5 @@ This repository is a collection of my Python learning experiences, projects, and
 
 ### Connect with Me
 
-GitHub: [dipeshsdk](https://github.com/dipeshsdk)
-LinkedIn: [Dipesh Sharma](https://www.linkedin.com/in/dipesh-sharma-53a074320/)
+- GitHub: [dipeshsdk](https://github.com/dipeshsdk)
+- LinkedIn: [Dipesh Sharma](https://www.linkedin.com/in/dipesh-sharma-53a074320/)
